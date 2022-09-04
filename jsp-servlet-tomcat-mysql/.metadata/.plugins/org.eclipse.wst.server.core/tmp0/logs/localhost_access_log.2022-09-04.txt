@@ -1,0 +1,5 @@
+127.0.0.1 - - [04/Sep/2022:08:00:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Sep/2022:08:00:05 +0530] "GET /jsp-servlet-jdbc-example01/ HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [04/Sep/2022:08:00:05 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Sep/2022:08:00:10 +0530] "GET /jsp-servlet-jdbc-example01/register HTTP/1.1" 200 919
+0:0:0:0:0:0:0:1 - - [04/Sep/2022:08:00:23 +0530] "POST /jsp-servlet-jdbc-example01/register HTTP/1.1" 200 164

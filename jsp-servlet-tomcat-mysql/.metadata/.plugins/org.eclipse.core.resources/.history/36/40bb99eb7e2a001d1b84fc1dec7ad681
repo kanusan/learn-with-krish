@@ -1,0 +1,5 @@
+package net.kanu.registration.dao;
+
+public class EmployeeDao {
+
+}
